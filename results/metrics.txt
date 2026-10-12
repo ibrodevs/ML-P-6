@@ -1,0 +1,20 @@
+ML-P-6 results
+objects=175
+train=122
+test=53
+stemming=True
+tfidf_features=115
+min_df=2
+max_df=0.9
+accuracy=0.8679
+macro_f1=0.8679
+
+              precision    recall  f1-score   support
+
+    negative     0.8846    0.8519    0.8679        27
+    positive     0.8519    0.8846    0.8679        26
+
+    accuracy                         0.8679        53
+   macro avg     0.8682    0.8682    0.8679        53
+weighted avg     0.8685    0.8679    0.8679        53
+
